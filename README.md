@@ -55,10 +55,14 @@ The design is written in **Verilog** and includes a **testbench for functional v
 🔹 **Full flag (`full`)**: Asserted when FIFO reaches maximum capacity.  
 🔹 **Empty flag (`empty`)**: Asserted when FIFO is empty.  
 
----
+## **EDA PLAYGROUND LINK**
 
-## **How to Run the Simulation**
+https://www.edaplayground.com/x/vL2C
 
-1. Clone the repository:
-   ```sh
-   git clone <repository_url>
+## **SIMULATION OUTPUT**
+![image](https://github.com/user-attachments/assets/7831de32-54cc-467a-9941-e0b63f9e0f8b)
+
+## **WAVEFORM**
+![image](https://github.com/user-attachments/assets/09bb125b-e489-40ea-b006-b2267bcf4a89)
+
+
